@@ -1,4 +1,10 @@
-# Problem Statement
+## Starter Code
+
+Step 01: Download/Clone the repository and install the packages.
+Step 03: `npm start` to start the application 
+
+## Problem Statement
+
 In the following problem statement a function named "runBigTaskReducer" is executed by buttons 
 "Sync on Main thread" and "Async on Main thread".
 
