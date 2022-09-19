@@ -1,7 +1,7 @@
 ## Starter Code
 
-Step 01: Download/Clone the repository and install the packages.
-Step 03: `npm start` to start the application 
+    Step 01: Download/Clone the repository and install the packages.
+    Step 03: `npm start` to start the application 
 
 ## Problem Statement
 
